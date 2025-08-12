@@ -1,0 +1,11 @@
+# Data files
+orderbook_data/
+*.csv
+*.parquet
+
+# Other common excludes
+node_modules/
+.env
+.DS_Store
+__pycache__/
+*.pyc
